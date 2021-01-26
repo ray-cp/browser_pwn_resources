@@ -11,7 +11,7 @@
 ## Fuzzer Project
 
 * [Domato](https://github.com/googleprojectzero/domato)
-* 
+* [JS-Fuzzer](https://source.chromium.org/chromium/chromium/src/+/master:v8/tools/clusterfuzz/js_fuzzer/)
 
 
 

@@ -150,6 +150,7 @@
 ### Article
 
 * [Trashing the Flow of Data](https://googleprojectzero.blogspot.com/2019/05/trashing-flow-of-data.html)
+* [Intro to Chrome’s V8 from an exploit development angle](https://sensepost.com/blog/2020/intro-to-chromes-v8-from-an-exploit-development-angle/)
 
 ## Tools
 
